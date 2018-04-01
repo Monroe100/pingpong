@@ -1,15 +1,15 @@
 Project Name
 -------------
 pingpong
--------
+
 Authors Name
 -------
 Michelle Claire
------
+
 Description of the Project
 -----
 pingpong is an application that displays output depending whether a number is divisible by 3,5,or15.
----
+
 
 Specifications
 -------
